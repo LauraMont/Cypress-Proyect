@@ -1,5 +1,8 @@
-# Portfolio-Automation
-
+# Template Proyecto
+_Este repositorio es un templeate para desarrollar nuevos proyectos. El mismo cuenta con_
+* Reportes en XML al ejecutar en modo headless
+* Carpeta y path correspondiente para POM (pages)
+* Configuracion de VScode
 ## Comenzando 🚀
 
 _Clonar repositorio:_
