@@ -8,7 +8,7 @@ _Este repositorio es un templeate para desarrollar nuevos proyectos. El mismo cu
 _Clonar repositorio:_
 
 ```
-git clone https://github.com/LauraMont/Challenge-Automation.git
+git clone https://github.com/LauraMont/TemplateProyecto
 ```
 
 ### Pre-requisitos 📋

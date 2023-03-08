@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LauraMont/Portfolio-Automation.git"
+    "url": "git+https://github.com/LauraMont/TemplateProyecto"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LauraMont/Portfolio-Automation/issues"
+    "url": "https://github.com/LauraMont/TemplateProyecto/issues"
   },
-  "homepage": "https://github.com/LauraMont/Portfolio-Automation#readme",
+  "homepage": "https://github.com/LauraMont/TemplateProyecto#readme",
   "devDependencies": {
     "@bahmutov/cypress-esbuild-preprocessor": "2.2.0",
     "cypress": "12.0.0",
