@@ -7,7 +7,15 @@
 			"cypress",
 		],
         "paths": {
-            "@pages/*": ["./cypress/support/pages/*"]
-        }
-    }
+            "@pages/*": ["./cypress/support/page/*"],
+            "@helper/*": ["./cypress/support/page/*"]
+        },
+    },
+    "reporterEnabled": "spec, mocha-junit-reporter",
+    "mochaJunitReporterReporterOptions": {
+		"mochaFile": "reports/test-results.xml",
+		"toConsole": false,
+		"outputs": true,
+		"testCaseSwitchClassnameAndName": true
+	},
 }

@@ -18,10 +18,14 @@
     "url": "https://github.com/LauraMont/TemplateProyecto/issues"
   },
   "homepage": "https://github.com/LauraMont/TemplateProyecto#readme",
+  "type": "module",
   "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "15.1.4",
     "@bahmutov/cypress-esbuild-preprocessor": "2.2.0",
     "cypress": "12.0.0",
-    "cypress-multi-reporters": "^1.6.2",
-    "mocha-junit-reporter": "^2.2.0"
+    "cypress-multi-reporters": "1.6.2",
+    "esbuild-plugin-node-builtin-polyfills": "^1.0.1",
+    "mocha-junit-reporter": "2.2.0",
+    "multiple-cucumber-html-reporter": "3.2.0"
   }
 }
