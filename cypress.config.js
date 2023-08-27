@@ -44,64 +44,7 @@ export default defineConfig({
 		baseUrl: "example.com"
 	},
 	env: {
-		AdminUser:{
-			user:"superAdmin",
-			password:"asd2314"
-		},
-		User:{
-			Admin:{
-				user:"",
-				password:""
-			},
-			Operador:{
-				user:"",
-				password:""
-			},
-			AgenteInmobiliario:{
-				user:"",
-				password:""
-			},
-			DirectorDeObra:{
-				user:"",
-				password:""
-			},
-			Proveedor:{
-				user:"",
-				password:""
-			},
-			Socio:{
-				user:"",
-				password:""
-			},
-			Tesorero:{
-				user:"",
-				password:""
-			},
-			Op:{
-				user:"",
-				password:""
-			}
-		},
-		endpoints:{
-			login: "/login",
-			proyectos: "home/proyectos",
-			contratos: "home/contratos",
-			movimientos: "home/movimientos",
-			prestamos: "home/prestamos",
-			cuentasBancarias: "home/cuentas-bancarias",
-			chequesTerceros: "home/cheques-terceros",
-			reportes: "home/reportes",
-			socios: "home/socios",
-			usuarios: "home/usuarios",
-			permisos: "home/permisos",
-			monedasIndices : "home/monedas",
-			bancos: "home/bancos",
-			categorias: "home/categorias",
-			clientes: "home/clientes",
-			proveedores: "home/proveedores",
-			parametros: "home/abm-parametros",
-			tipologias: "home/abm-tipologias",
-		}
+		
 	},
 })
 

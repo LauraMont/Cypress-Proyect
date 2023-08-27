@@ -8,16 +8,8 @@
     "cy:run:chrome": "cypress run --browser chrome --reporter junit",
     "cy:run:edge": "cypress run --browser edge --reporter junit"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LauraMont/TemplateProyecto"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/LauraMont/TemplateProyecto/issues"
-  },
-  "homepage": "https://github.com/LauraMont/TemplateProyecto#readme",
   "type": "module",
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "15.1.4",
