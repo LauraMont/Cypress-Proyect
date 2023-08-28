@@ -52,10 +52,10 @@ npm test
 _4-2. Running all tests on Chrome (Headless mode + XML Report)_
 
 ```
-npm run cy:run:chrome
+npm run regression:chrome
 ```
 _4-3. Running all tests on Edge (Headless mode + XML Report)_
 
 ```
-npm run cy:run:edge
+npm run regression:edge
 ```

@@ -10,4 +10,5 @@ Feature: Acount Login SwagLabs for example
     Examples:
     |username|password|   
     | standard_user| secret_sauce|
-    |sdsdsa|sadasdasd|     
+    |problem_user|secret_sauce|     
+    |performance_glitch_user|secret_sauce|    
